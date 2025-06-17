@@ -1,8 +1,7 @@
 # EIS-GRPO
 Replication of the EIS-GRPO Paper
-
+TRL Version: 0.17.0
 Paper: J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization
-
 The usage is to replace the **grpo_config.py** and **grpo_trainer.py** file in the TRL library.
 
 ## GRPOConfig
